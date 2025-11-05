@@ -3,7 +3,7 @@
 🌏 Real-Time India Air Quality Index (AQI) – End-to-End Snowflake Data Engineering Project
 
 📘 Project Overview
-This project showcases an end-to-end real-time data engineering pipeline built on Snowflake, leveraging Dynamic Tables for continuous data transformation and Streamlit for interactive visualization. The system processes India’s real-time Air Quality Index (AQI) data from the Government of India Open Data Platform, updates it hourly, and provides city and station-level AQI insights.
+This project showcases an end-to-end real-time data engineering pipeline built on Snowflake, leveraging Dynamic Tables for continuous data transformation and Streamlit for interactive visualization. The system processes India’s real-time Air Quality Index (AQI) data from the [Government of India Open Data Platform](https://www.data.gov.in/catalog/real-time-air-quality-index), updates it hourly, and provides city and station-level AQI insights.
 
 
 🧠 Objective
