@@ -15,7 +15,7 @@ To design a fully automated, scalable, and near real-time data pipeline that:
 - Uses GitHub Actions for automated hourly ingestion scheduling.
 
 
-🏗️ Architecture Overview
+## 🏗️ Architecture Overview
 1️⃣ Data Source:
 Real-Time AQI API — provides hourly pollutant readings from multiple monitoring stations across Indian cities.
 
@@ -53,7 +53,7 @@ agg_city_fact_day_level
 - Ensures the pipeline runs automatically without manual intervention.
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 - Category	Tools / Services
 - Data Warehouse	🧊 Snowflake
 - Data Transformation	Snowflake Dynamic Tables
@@ -63,7 +63,7 @@ agg_city_fact_day_level
 - Data Source	Government of India Open Data Portal (API)
 
 
-📊 Key Features
+## 📊 Key Features
 - ✅ End-to-end ELT pipeline with automated hourly updates.
 - ✅ Real-time AQI computation at station, city, and state levels.
 - ✅ Full data lineage from API → Stage → Clean → Consumption → Dashboard.
@@ -74,7 +74,7 @@ agg_city_fact_day_level
 
 
 
-💡 Key Learnings
+## 💡 Key Learnings
 - Hands-on experience with Snowflake Dynamic Tables for incremental transformations.
 - Building modular ETL pipelines using Python + Snowflake Tasks.
 - Automating workflows using GitHub Actions.
