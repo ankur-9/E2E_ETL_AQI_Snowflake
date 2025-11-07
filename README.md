@@ -73,3 +73,4 @@ To design a fully automated, scalable, and near real-time data pipeline that:
 
 
 📸 Dashboard Preview
+<img width="1646" height="960" alt="Screenshot 2025-11-07 at 7 36 31 PM" src="https://github.com/user-attachments/assets/9453bb19-790a-4748-9fac-fef96f376be4" />
