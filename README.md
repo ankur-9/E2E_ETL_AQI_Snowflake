@@ -72,9 +72,4 @@ To design a fully automated, scalable, and near real-time data pipeline that:
 
 
 
-### 💡 Key Learnings
-- Hands-on experience with Snowflake Dynamic Tables for incremental transformations.
-- Building modular ETL pipelines using Python + Snowflake Tasks.
-- Automating workflows using GitHub Actions.
-- Designing dim-fact schemas for real-time data models.
-- End-to-end ownership: ingestion, transformation, automation, and visualization.
+📸 Dashboard Preview
